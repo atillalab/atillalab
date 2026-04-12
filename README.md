@@ -23,5 +23,8 @@ Local AI • Ruby • Apple workflows • PKM
   - AI assistant ideas accessible from chat interfaces
   - small command-line tools
   - knowledge and workflow systems
+
+## 🔭 I’m currently working on ...
+
   - [`codex_limit_tracker`](https://github.com/atillalab/codex_limit_tracker) - tracks Codex weekly and 5h
   usage limits
