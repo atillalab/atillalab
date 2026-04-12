@@ -28,3 +28,5 @@ Local AI • Ruby • Apple workflows • PKM
 
   - [`codex_limit_tracker`](https://github.com/atillalab/codex_limit_tracker) - tracks Codex weekly and 5h
   usage limits
+
+- [`drop_zone`](https://github.com/atillalab/drop_zone) - macOS utility for shared app drop folders
