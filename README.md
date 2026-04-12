@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Atilla
+
+Local AI • Ruby • Apple workflows • PKM
+
+I work on practical tools and experiments around:
+
+- local LLMs
+- tool calling
+- Ruby scripts and automation
+- Obsidian / PARA workflows
+- lightweight personal infrastructure
