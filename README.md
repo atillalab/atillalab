@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 Local AI • Ruby • Apple workflows • PKM
 
-I work on practical tools and experiments around:
-
-- local LLMs
-- tool calling
-- Ruby scripts and automation
-- Obsidian / PARA workflows
-- lightweight personal infrastructure
+## Building
+  - AI assistant ideas accessible from chat interfaces
+  - small command-line tools
+  - knowledge and workflow systems
+  - [`codex_limit_tracker`](https://github.com/atillalab/codex_limit_tracker) - tracks Codex weekly and 5h
+  usage limits
