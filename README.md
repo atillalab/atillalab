@@ -31,3 +31,6 @@ Local AI • Ruby • Apple workflows • PKM
 
 - [`drop_zone:`](https://github.com/atillalab/drop_zone)  
   macOS iCloud drop-folder helper for scripts and AI tools
+
+- [`site-health:`](https://github.com/atillalab/site-health)  
+  A fast CLI for checking website and domain health.
