@@ -33,4 +33,4 @@ Local AI • Ruby • Apple workflows • PKM
   macOS iCloud drop-folder helper for scripts and AI tools
 
 - [`site-health:`](https://github.com/atillalab/site-health)  
-  A fast CLI for checking website and domain health.
+  A fast CLI for checking website and domain health. Install with `brew install atillalab/tap/site-health`.
