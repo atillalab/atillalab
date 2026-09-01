@@ -34,3 +34,6 @@ Local AI • Ruby • Apple workflows • PKM
 
 - [`site-health:`](https://github.com/atillalab/site-health)  
   A fast CLI for checking website and domain health. Install with `brew install atillalab/tap/site-health`.
+
+- [`data-modeling-agent-skill:`](https://github.com/atillalab/data-modeling-agent-skill)
+  Portable Agent Skill for extracting and documenting data models from local software repositories. Supports Codex and OpenCode.
