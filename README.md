@@ -34,6 +34,9 @@ Local AI • Ruby • Apple workflows • PKM
 
 ## Tools & Workflows
 
+- [`kickoff:`](https://github.com/atillalab/kickoff)  
+  Football fixtures from multiple sources, queryable through a CLI and AI agents. In development.
+
 - [`codex_limit_tracker:`](https://github.com/atillalab/codex_limit_tracker)  
   Codex usage limit tracker with human and JSON output
 
