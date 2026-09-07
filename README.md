@@ -40,6 +40,9 @@ Local AI • Ruby • Apple workflows • PKM
 - [`codex_limit_tracker:`](https://github.com/atillalab/codex_limit_tracker)  
   Codex usage limit tracker with human and JSON output
 
+- [`opencode_limit_tracker:`](https://github.com/atillalab/opencode_limit_tracker)  
+  OpenCode usage limit tracker (in development)
+
 - [`drop_zone:`](https://github.com/atillalab/drop_zone)  
   macOS iCloud drop-folder helper for scripts and AI tools
 
