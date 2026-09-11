@@ -37,6 +37,9 @@ Local AI • Ruby • Apple workflows • PKM
 - [`kickoff:`](https://github.com/atillalab/kickoff)  
   Football fixtures from multiple sources, queryable through a CLI and AI agents. In development.
 
+- [`sumo-cli:`](https://github.com/atillalab/sumo-cli)  
+  Go CLI tool for fetching sumo match schedules from an open API. In development.
+
 - [`codex_limit_tracker:`](https://github.com/atillalab/codex_limit_tracker)  
   Codex usage limit tracker with human and JSON output
 
