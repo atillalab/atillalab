@@ -32,6 +32,9 @@ Local AI • Ruby • Apple workflows • PKM
 - [`screen-flow-agent-skill:`](https://github.com/atillalab/screen-flow-agent-skill)<br>
   Agent Skill for documenting user-facing screens and end-to-end application flows, including interactions, backend behavior, authorization, diagrams, and unknowns.
 
+- [`disney-three-rooms:`](https://github.com/atillalab/disney-three-rooms)<br>
+  Agent Skill for developing ambitious ideas through separate Dreamer, Realist, Critic, and Synthesis thinking modes.
+
 ## Tools & Workflows
 
 - [`kickoff:`](https://github.com/atillalab/kickoff)  
