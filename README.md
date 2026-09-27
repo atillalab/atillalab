@@ -35,6 +35,9 @@ Local AI • Ruby • Apple workflows • PKM
 - [`disney-three-rooms:`](https://github.com/atillalab/disney-three-rooms)<br>
   Agent Skill for developing ambitious ideas through separate Dreamer, Realist, Critic, and Synthesis thinking modes.
 
+- [`elon-5-step-algorithm:`](https://github.com/atillalab/elon-5-step-algorithm)<br>
+  Agent Skill for questioning requirements, deleting unnecessary complexity, simplifying, accelerating, automating, and reviewing solutions in strict order.
+
 ## Tools & Workflows
 
 - [`kickoff:`](https://github.com/atillalab/kickoff)  
